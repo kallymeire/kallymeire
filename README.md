@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou apaixonada por tecnologia e inovação aplicada à saúde! Atualmente, estou cursando **Engenharia de Software** e **Engenharia de Produção**, e me preparando para um **Mestrado** na área de Gestão e Tecnologias.
+Entusiasta por tecnologia e inovação aplicada à saúde! Atualmente, estou cursando **Engenharia de Software** e **Engenharia de Produção**, e me preparando para um **Mestrado** na área de Gestão e Tecnologias.
 
 * 🎓 **Formação Profissional:** Graduanda em Engenharia de Software e Engenharia de Produção, com foco em Qualidade (QA), BPM e IA.
 * 🩺 **Visão Healthtech:** Idealizadora de projeto de pesquisa (dispositivo de monitoramento de saúde com IA e micro/nanotecnologia) com objetivo de Mestrado e PhD na Europa.
