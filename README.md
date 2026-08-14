@@ -29,11 +29,9 @@
 
 ---
 
-## 📊 Estatísticas no GitHub
+## 📊 Atividade no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kallymeire&show_icons=true&theme=dracula&include_all_commits=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kallymeire&layout=compact&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kallymeire&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
