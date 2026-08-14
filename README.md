@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:okallymeire@gmail.com">
-    <img src="https://img.shields.io/badge/Enviar%20E--mail-kallymeiremartins@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Enviar%20E--mail-okallymeire@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
