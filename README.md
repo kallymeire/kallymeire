@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Kallymeire Coelho👋</h1>
+<h1 align="center">Olá, eu sou Kallymeire Coelho 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudando-success?style=for-the-badge&logo=github&logoColor=white" />
@@ -18,7 +18,7 @@
 Entusiasta por tecnologia e inovação aplicada à saúde! Atualmente, estou cursando **Engenharia de Software** e **Engenharia de Produção**, e me preparando para um **Mestrado** na área de Gestão e Tecnologias.
 
 * 🎓 **Formação Profissional:** Graduanda em Engenharia de Software e Engenharia de Produção, com foco em Qualidade (QA), BPM e IA.
-* 🩺 **Visão Healthtech:** Idealizadora de projeto de pesquisa (dispositivo de monitoramento de saúde com IA e micro/nanotecnologia) com objetivo de Mestrado e PhD na Europa.
+* 🩺 **Visão Healthtech:** Idealizadora de projeto de pesquisa (dispositivo de monitoramento de saúde com IA e micro/nanotecnologia) com objetivo de Mestrado e Doutorado na Europa.
 * 🎯 **Objetivo:** Contribuir para soluções que unam a eficiência da engenharia industrial, a inteligência do software e a prevenção em saúde.
 
 <hr>
@@ -45,10 +45,8 @@ A constância gera resultados! Aqui estão as minhas estatísticas de contribui�
 
 ## 📌 Projetos em Destaque
 
-*(Em breve, meus projetos de graduação e pesquisas sobre HealthTech e IA estarão aqui)*
-
-* 💻 **[Nome do Projeto 1]**: Descrição rápida (ex: Aplicação desenvolvida durante o curso técnico / projeto em C#/Python).
-* 📊 **[Nome do Projeto 2]**: Descrição rápida (ex: Scripts de automação ou análise de dados de saúde/circuitos).
+* 📊 **[Portfólio de Gestão de Projetos & Processos](https://github.com/kallymeire/Portfolio-gestao-e-processos)**: Estrutura analítica cobrindo PMBOK 7, Metodologias Ágeis (Scrum/Kanban), Governança ITIL v4 e Organização no OneNote.
+* ⚙️ **[Controle de Qualidade em Equipamentos](https://github.com/kallymeire/controle-qualidade-equipamentos)**: Script em Python para auditoria e verificação automatizada de parâmetros de segurança em dispositivos operacionais.
 
 <hr>
 
