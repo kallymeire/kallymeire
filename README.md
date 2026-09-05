@@ -25,7 +25,7 @@ Profissional em transição para alta performance em **Infraestrutura de TI, Sup
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,csharp,js,html,css,git,github,mysql,linux,vscode" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cs,mysql,js,html,css,git,github,linux,vscode" alt="Tech Stack">
 </p>
 
 ---
@@ -46,5 +46,5 @@ Profissional em transição para alta performance em **Infraestrutura de TI, Sup
 ## 📈 Gráfico de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kallymeire&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kallymeire&theme=tokyo-night&hide_border=true&radius=8" alt="Contribution Graph" />
 </p>
