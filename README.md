@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner personalizado com fundo tecnológico azul neon e nome em destaque -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003366,50:00b4d8,100:90e0ef&height=220&section=header&text=KALLYMEIRE%20COELHO&fontSize=38&fontColor=ffffff&fontAlignY=50&desc=SUPORTE%20TECNICO%20N2%20|%20INFRAESTRUTURA%20|%20ENGENHARIA%20DE%20SOFTWARE&descSize=14&descColor=f8fafc&animation=fadeIn" width="100%"/>
+  <!-- Imagem de banner personalizada hospedada no seu próprio repositório -->
+  <img src="https://raw.githubusercontent.com/kallymeire/kallymeire/main/banner.png" width="100%" style="border-radius: 8px;" />
 </div>
 
 ### 01 // ABOUT_ME
