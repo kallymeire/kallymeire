@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner personalizado com fundo tecnológico e azul neon -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f2fe,100:4facfe&height=260&section=header&text=KALLYMEIRE%20COELHO&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=SUPORTE%20TECNICO%20N2%20|%20INFRAESTRUTURA%20|%20ENGENHARIA%20DE%20SOFTWARE&descSize=14&descColor=e0f2fe&animation=fadeIn" width="100%"/>
+  <!-- Banner com imagem de fundo de telas e sistemas em azul neon (sem textos) -->
+  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius: 8px;" />
 </div>
 
 ### 01 // ABOUT_ME
