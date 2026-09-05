@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Imagem de banner personalizada hospedada no seu próprio repositório -->
-  <img src="https://raw.githubusercontent.com/kallymeire/kallymeire/main/banner.png" width="100%" style="border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/kallymeire/kallymeire/main/imagens%20(1).jpg" width="100%" style="border-radius: 8px;" />
 </div>
 
 ### 01 // ABOUT_ME
