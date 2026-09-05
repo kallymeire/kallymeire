@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius: 8px;" />
+  <img src="./banner-tech.jpg.jpg" width="100%" style="border-radius: 8px;" />
 </div>
 
 ### 01 // SOBRE MIM
