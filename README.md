@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./imagens%20(1).jpg" width="100%" style="border-radius: 8px;" />
+  <img src="./banner-tech.jpg" width="100%" style="border-radius: 8px;" />
 </div>
 
 ### 01 // ABOUT_ME
