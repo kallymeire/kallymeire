@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner-tech.jpg.jpg" width="100%" style="border-radius: 8px;" />
+  <img src="./banner-tech.jpg.jpg" width="85%" style="border-radius: 8px;" />
 </div>
 
 ### 01 // SOBRE MIM
