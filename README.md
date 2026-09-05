@@ -46,5 +46,5 @@ Profissional em transição para alta performance em **Infraestrutura de TI, Sup
 ## 📈 Gráfico de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kallymeire&theme=tokyo-night&hide_border=true&radius=8" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/00ff66/kallymeire" alt="Github Contributions" />
 </p>
