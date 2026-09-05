@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="COLOQUE_O_LINK_DIRETO_DO_SEU_BANNER_AQUI" alt="Banner Kallymeire" width="100%">
+  <img src="banner-tech.jpg.jpg" alt="Banner Kallymeire" width="100%">
 </p>
 
 <h1 align="center">Olá, mundo! Sou Kallymeire Coelho 🚀</h1>
