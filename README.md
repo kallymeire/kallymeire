@@ -4,6 +4,10 @@
 
 ### 01 // SOBRE MIM
 
+<p align="justify">
+  Olá! Sou <b>Kallymeire Coelho</b>, estudante de Engenharia de Software na UNINTER e profissional de TI focada em criar soluções eficientes, garantir a qualidade de sistemas e proporcionar estabilidade em ambientes de infraestrutura e suporte técnico de alto nível.
+</p>
+
 ```json
 {
   "name": "Kallymeire Coelho",
