@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="COLoque_O_LINK_DO_SEU_BANNER_AQUI" alt="Banner Kallymeire" width="100%">
+  <img src="URL_DIRETA_DA_SUA_IMAGEM_DO_BANNER" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Olá, mundo! Sou Kallymeire Coelho 🚀</h1>
@@ -11,28 +11,13 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 💡 Sobre Mim
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,csharp,js,html,css,git,github,mysql,linux,vscode" alt="Tech Stack">
-</p>
+Profissional em transição para alta performance em **Infraestrutura de TI, Suporte N2 e Engenharia de Software**, unindo vivência prática em ambientes corporativos de missão crítica (TIVIT) com uma base analítica rigorosa em desenvolvimento e segurança da informação. 
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kallymeire&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallymeire&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kallymeire&theme=radical" alt="GitHub Streak" />
-</p>
+* 🔍 **Especialidade:** Diagnóstico rápido de falhas, troubleshooting de redes e sistemas operacionais, e cumprimento rigoroso de SLAs.
+* 🛠️ **Stack Tecnológica:** Java, Spring Boot, Python, C#, SQL, Git/GitHub e Linux.
+* 📚 **Formação & Certificações:** Graduação em Engenharia de Software (Uninter) e formações de destaque em Redes e Cibersegurança (**Cisco Networking Academy**) e Ciência da Computação (**Harvard University**).
+* 🎯 **Objetivo:** Agregar valor imediato a equipes de tecnologia robustas, garantindo estabilidade, rastreabilidade e segurança nos serviços de TI.
 
 ---
-
-## 📈 Gráfico de Contribuições
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kallymeire&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
