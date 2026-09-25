@@ -25,7 +25,7 @@ Profissional em transição para alta performance em **Infraestrutura de TI, Sup
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cs,mysql,js,html,css,git,github,linux,vscode" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=java,n8n,spring,python,cs,mysql,js,html,css,git,github,linux,vscode" alt="Tech Stack">
 </p>
 
 ---
