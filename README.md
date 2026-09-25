@@ -9,7 +9,7 @@
 
 ---
 
-Profissional especializada em Infraestrutura de TI, Suporte N2 e Engenharia de Software, unindo vivência prática em ambientes corporativos,com uma base analítica rigorosa em desenvolvimento e segurança da informação. 
+Profissional especializada em Infraestrutura de TI, Suporte N2 e Engenharia de Software, unindo vivência prática em ambientes corporativos, com uma base analítica rigorosa em desenvolvimento e segurança da informação. 
 
 * 🔍 **Especialidade:** Diagnóstico rápido de falhas, troubleshooting de redes e sistemas operacionais, e cumprimento rigoroso de SLAs.
 * 🛠️ **Stack Tecnológica:** Java, Spring Boot, Python, C#, SQL, n8n, Git/GitHub e Linux.
