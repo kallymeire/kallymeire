@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="banner-tech.jpg.jpg" alt="Banner Kallymeire" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=EA4B71&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+mundo!+Sou+Kallymeire+Coelho+%F0%9F%9A%80;Analista+de+Suporte+T%C3%A9cnico+%26+Dev;Automa%C3%A7%C3%A3o+com+n8n+%2B+Python;Em+transi%C3%A7%C3%A3o+para+QA" alt="Typing SVG" />
 </p>
-
-<h1 align="center">Olá, mundo! Sou Kallymeire Coelho 🚀</h1>
 
 <p align="center">
   <b>Analista de Suporte Técnico & Desenvolvedora de Software | Estudante de Engenharia de Software</b><br>
