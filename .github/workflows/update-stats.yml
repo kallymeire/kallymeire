@@ -1,0 +1,24 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Baixar estatísticas
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=kallymeire&show_icons=true&theme=radical&include_all_commits=true&count_private=true" -o stats.svg
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=kallymeire&layout=compact&theme=radical" -o top-langs.svg
+
+      - name: Salvar alterações
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg top-langs.svg
+          git diff --staged --quiet || (git commit -m "Atualiza estatísticas" && git push)
