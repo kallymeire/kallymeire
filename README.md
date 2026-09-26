@@ -38,7 +38,6 @@ Profissional especializada em Infraestrutura de TI, Suporte N2 e Engenharia de S
 
 <p align="center">
   <img height="180" src="stats.svg" alt="GitHub Stats" />
-  <img height="180" src="top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
