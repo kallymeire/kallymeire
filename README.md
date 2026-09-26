@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Analista de Suporte Técnico & Desenvolvedora de Software | Estudante de Engenharia de Software</b><br>
+  <b>Desenvolvedora de Software | Estudante de Engenharia de Software | Analista de Suporte Técnico</b><br>
   Focada em infraestrutura de TI, troubleshooting avançado, mitigação de riscos e automação de sistemas.
 </p>
 
@@ -13,6 +13,7 @@ Profissional especializada em Infraestrutura de TI, Suporte N2 e Engenharia de S
 
 * 🔍 **Especialidade:** Diagnóstico rápido de falhas, troubleshooting de redes e sistemas operacionais, e cumprimento rigoroso de SLAs.
 * 🛠️ **Stack Tecnológica:** Java, Spring Boot, Python, C#, SQL, n8n, Git/GitHub e Linux.
+* 🤖 **IA Aplicada:** Estudando MCP (Model Context Protocol), RAG (Retrieval-Augmented Generation) e Fine-tuning de LLMs, aplicados a fluxos de automação.
 * 📚 **Formação & Certificações:** Graduação em Engenharia de Software (Uninter) e formações de destaque em Redes e Cibersegurança (**Cisco Networking Academy**) e Ciência da Computação (**Harvard University**).
 * 🎯 **Objetivo:** Agregar valor imediato a equipes de tecnologia robustas, garantindo estabilidade, rastreabilidade e segurança nos serviços de TI.
 
@@ -26,6 +27,9 @@ Profissional especializada em Infraestrutura de TI, Suporte N2 e Engenharia de S
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6C3EF4?style=for-the-badge" alt="MCP">
+  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-00A67E?style=for-the-badge" alt="RAG">
+  <img src="https://img.shields.io/badge/Fine--Tuning-LLMs-FF6F00?style=for-the-badge" alt="Fine-tuning">
 </p>
 
 ---
@@ -33,3 +37,18 @@ Profissional especializada em Infraestrutura de TI, Suporte N2 e Engenharia de S
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kallymeire&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallymeire&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kallymeire&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Gráfico de Contribuições
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00ff66/kallymeire" alt="Github Contributions" />
+</p>
