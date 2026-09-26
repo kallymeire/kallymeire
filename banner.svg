@@ -1,0 +1,87 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Banner de perfil do GitHub com fundo escuro, circuitos e letreiro digitando com nome e função em azul neon">
+<title>Banner GitHub - Kallymeire Coelho</title>
+<defs>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+<feGaussianBlur stdDeviation="5" result="b1"/>
+<feGaussianBlur stdDeviation="12" result="b2"/>
+<feMerge>
+<feMergeNode in="b2"/>
+<feMergeNode in="b1"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+<filter id="softglow" x="-60%" y="-60%" width="220%" height="220%">
+<feGaussianBlur stdDeviation="3"/>
+</filter>
+<radialGradient id="bg" cx="50%" cy="40%" r="80%">
+<stop offset="0%" stop-color="#0c1622"/>
+<stop offset="60%" stop-color="#070d16"/>
+<stop offset="100%" stop-color="#03060a"/>
+</radialGradient>
+<clipPath id="clipL1"><rect x="0" y="105" width="0" height="100"><animate attributeName="width" values="0;1000;1000;0;0" keyTimes="0;0.0625;0.1875;0.25;1" dur="16s" begin="0.5s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clipL2"><rect x="0" y="105" width="0" height="100"><animate attributeName="width" values="0;0;1000;1000;0;0" keyTimes="0;0.25;0.3125;0.4375;0.5;1" dur="16s" begin="0.5s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clipL3"><rect x="0" y="105" width="0" height="100"><animate attributeName="width" values="0;0;1000;1000;0;0" keyTimes="0;0.5;0.5625;0.6875;0.75;1" dur="16s" begin="0.5s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clipL4"><rect x="0" y="105" width="0" height="100"><animate attributeName="width" values="0;0;1000;1000;0" keyTimes="0;0.75;0.8125;0.9375;1" dur="16s" begin="0.5s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+
+<rect width="1200" height="300" fill="url(#bg)"/>
+
+<g stroke="#164a68" stroke-width="1.5" fill="none" opacity="0.55">
+<path d="M0,40 H180 L210,70 H420"/>
+<path d="M0,260 H120 L150,230 H380 L410,260 H700"/>
+<path d="M1200,50 H980 L950,80 H760"/>
+<path d="M1200,230 H1020 L990,200 H840 L810,230 H600"/>
+<path d="M60,0 V90 L90,120"/>
+<path d="M1140,300 V210 L1110,180"/>
+</g>
+<g fill="#2fb6e8">
+<circle cx="420" cy="70" r="3.5"/>
+<circle cx="700" cy="260" r="3.5"/>
+<circle cx="760" cy="80" r="3.5"/>
+<circle cx="600" cy="230" r="3.5"/>
+<circle cx="90" cy="120" r="3.5"/>
+<circle cx="1110" cy="180" r="3.5"/>
+</g>
+<circle r="4" fill="#7fe3ff" filter="url(#softglow)">
+<animateMotion dur="4s" repeatCount="indefinite" path="M0,40 H180 L210,70 H420"/>
+</circle>
+<circle r="4" fill="#7fe3ff" filter="url(#softglow)">
+<animateMotion dur="5s" begin="1.2s" repeatCount="indefinite" path="M1200,230 H1020 L990,200 H840 L810,230 H600"/>
+</circle>
+
+<g font-family="Consolas, 'Courier New', monospace" fill="#1f6f92" opacity="0.5">
+<text x="70" y="80" font-size="26">&lt;/&gt;</text>
+<text x="1080" y="90" font-size="26">{ }</text>
+<text x="140" y="245" font-size="16">01001</text>
+<text x="1000" y="255" font-size="16">10110</text>
+</g>
+
+<g transform="translate(1000,60)" stroke="#2fb6e8" stroke-width="2.5" fill="none" opacity="0.7">
+<circle r="16"/>
+<circle r="5" fill="#2fb6e8"/>
+<g>
+<line x1="0" y1="-24" x2="0" y2="-16"/>
+<line x1="0" y1="24" x2="0" y2="16"/>
+<line x1="-24" y1="0" x2="-16" y2="0"/>
+<line x1="24" y1="0" x2="16" y2="0"/>
+<line x1="-17" y1="-17" x2="-11" y2="-11"/>
+<line x1="17" y1="17" x2="11" y2="11"/>
+<line x1="-17" y1="17" x2="-11" y2="11"/>
+<line x1="17" y1="-17" x2="11" y2="-11"/>
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
+</g>
+</g>
+
+<g clip-path="url(#clipL1)">
+<text x="120" y="175" font-family="Consolas, 'Courier New', monospace" font-size="38" font-weight="700" fill="#3fd3ff" filter="url(#glow)">Olá, mundo! Sou Kallymeire Coelho_</text>
+</g>
+<g clip-path="url(#clipL2)">
+<text x="120" y="175" font-family="Consolas, 'Courier New', monospace" font-size="38" font-weight="700" fill="#3fd3ff" filter="url(#glow)">Desenvolvedora de Software_</text>
+</g>
+<g clip-path="url(#clipL3)">
+<text x="120" y="175" font-family="Consolas, 'Courier New', monospace" font-size="38" font-weight="700" fill="#3fd3ff" filter="url(#glow)">Automação com n8n + Python_</text>
+</g>
+<g clip-path="url(#clipL4)">
+<text x="120" y="175" font-family="Consolas, 'Courier New', monospace" font-size="38" font-weight="700" fill="#3fd3ff" filter="url(#glow)">Aperfeiçoamento em QA_</text>
+</g>
+</svg>
