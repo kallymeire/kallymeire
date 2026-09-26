@@ -37,7 +37,7 @@ Profissional especializada em Infraestrutura de TI, Suporte N2 e Engenharia de S
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="stats.svg" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kallymeire&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
