@@ -3,26 +3,26 @@
 </p>
 
 <p align="center">
-  <b>Desenvolvedora de Software | Estudante de Engenharia de Software | Analista de Suporte Técnico</b><br>
-  Focada em infraestrutura de TI, troubleshooting avançado, mitigação de riscos e automação de sistemas.
+  <b>Desenvolvedora de Software | Engenharia de Software (Uninter) | Backend & AI Engineer</b><br>
+  Focada em desenvolvimento de software, arquitetura de APIs, automação inteligente e engenharia de dados.
 </p>
 
 ---
 
-Profissional especializada em Infraestrutura de TI, Suporte N2 e Engenharia de Software, unindo vivência prática em ambientes corporativos, com uma base analítica rigorosa em desenvolvimento e segurança da informação. 
+Profissional de tecnologia com forte base lógica em Engenharia de Software e desenvolvimento de sistemas, unindo sólida capacidade analítica na entrega de aplicações escaláveis, microsserviços e integração com inteligência artificial. 
 
-* 🔍 **Especialidade:** Diagnóstico rápido de falhas, troubleshooting de redes e sistemas operacionais, e cumprimento rigoroso de SLAs.
-* 🛠️ **Stack Tecnológica:** Java, Spring Boot, Python, C#, SQL, n8n, Git/GitHub e Linux.
-* 🤖 **IA Aplicada:** Estudando MCP (Model Context Protocol), RAG (Retrieval-Augmented Generation) e Fine-tuning de LLMs, aplicados a fluxos de automação.
+* 🔍 **Especialidade:** Desenvolvimento Backend, construção de APIs RESTful, otimização de código e arquitetura de sistemas orientados a dados.
+* 🛠️ **Stack Tecnológica:** C# (.NET), Python, Java, Spring Boot, SQL, n8n, Git/GitHub e Linux.
+* 🤖 **IA Aplicada & Dados:** Desenvolvimento com MCP (Model Context Protocol), arquiteturas RAG (Retrieval-Augmented Generation), Fine-tuning de LLMs e fluxos avançados de automação.
 * 📚 **Formação & Certificações:** Graduação em Engenharia de Software (Uninter) e formações de destaque em Redes e Cibersegurança (**Cisco Networking Academy**) e Ciência da Computação (**Harvard University**).
-* 🎯 **Objetivo:** Agregar valor imediato a equipes de tecnologia robustas, garantindo estabilidade, rastreabilidade e segurança nos serviços de TI.
+* 🎯 **Objetivo:** Integrar equipes de engenharia de alta performance, desenvolvendo soluções robustas, seguras e orientadas a resultados de alto impacto.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cs,mysql,js,html,css,git,github,linux,vscode" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=cs,python,java,spring,mysql,git,github,linux,vscode" alt="Tech Stack">
 </p>
 
 <p align="center">
