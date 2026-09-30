@@ -22,13 +22,15 @@ Profissional de tecnologia com forte base lógica em Engenharia de Software, uni
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,cs,cpp,java,spring,r,n8n,docker,mysql,git,github,linux,vscode" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,cs,cpp,java,spring,r,docker,mysql,git,github,linux,vscode" alt="Tech Stack">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs">
   <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation">
   <img src="https://img.shields.io/badge/Qualidade-e_Automação-005571?style=for-the-badge" alt="Qualidade de Software e Automação">
   <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6C3EF4?style=for-the-badge" alt="MCP">
