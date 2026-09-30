@@ -12,17 +12,17 @@
 Profissional de tecnologia com forte base lógica em Engenharia de Software, unindo o desenvolvimento de aplicações escaláveis com rigor em qualidade de software, tratamento de dados e integração com inteligência artificial. 
 
 * 🔍 **Especialidade:** Desenvolvimento Backend, construção de APIs RESTful, automação de fluxos com n8n e Python, engenharia de dados e Power BI.
-* 🛠️ **Stack Tecnológica:** Python, Node.js, C#, C++, Java, Spring Boot, R, Power BI, n8n, AWS, Oracle, Microsoft, Docker, SQL, Git/GitHub e Linux.
+* 🛠️ **Stack Tecnológica:** Python, Node.js, HTML, CSS, JavaScript, React, C#, C++, Java, Spring Boot, R, AWS, Oracle, Azure, n8n, Docker, SQL, Git/GitHub e Linux.
 * 🤖 **IA Aplicada & Dados:** Desenvolvimento com MCP (Model Context Protocol), arquiteturas RAG (Retrieval-Augmented Generation), Fine-Tuning de LLMs, análise estatística e visualização de dados.
 * 📚 **Formação & Certificações:** Graduação em Engenharia de Software (Uninter), Qualidade de Software e Automação e formações de destaque em Redes e Cibersegurança (**Cisco Networking Academy**) e Ciência da Computação (**Harvard University**).
 * 🎯 **Objetivo:** Integrar equipes de engenharia de alta performance, desenvolvendo soluções robustas, seguras e orientadas a resultados de alto impacto.
 
 ---
 
-## 🛠️️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,cs,cpp,java,spring,r,aws,oracle,microsoft,docker,mysql,git,github,linux,vscode" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,html,css,js,react,cs,cpp,java,spring,r,aws,oracle,azure,n8n,docker,mysql,git,github,linux,vscode" alt="Tech Stack">
 </p>
 
 <p align="center">
