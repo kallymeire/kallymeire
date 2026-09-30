@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="gemini-svg.svg" alt="Banner" width="100%" />
 </p>
 
@@ -12,7 +12,7 @@
 Profissional de tecnologia com forte base lógica em Engenharia de Software, unindo o desenvolvimento de aplicações escaláveis com rigor em qualidade de software, tratamento de dados e integração com inteligência artificial. 
 
 * 🔍 **Especialidade:** Desenvolvimento Backend, construção de APIs RESTful, automação de fluxos com n8n e Python, engenharia de dados e Power BI.
-* 🛠️ **Stack Tecnológica:** Python, Node.js, HTML, CSS, JavaScript, React, C#, C++, Java, Spring Boot, R, Go, AWS, Oracle, Azure, Docker, SQL, Git/GitHub e Linux.
+* 🛠️ **Stack Tecnológica:** Python, Node.js, HTML, CSS, JavaScript, React, C#, C++, Java, Spring Boot, R, Go, AWS, Azure, MySQL, Docker, Git/GitHub, Linux e VS Code.
 * 🤖 **IA Aplicada & Dados:** Desenvolvimento com MCP (Model Context Protocol), arquiteturas RAG (Retrieval-Augmented Generation), Fine-Tuning de LLMs, análise estatística e visualização de dados.
 * 📚 **Formação & Certificações:** Graduação em Engenharia de Software (Uninter), Qualidade de Software e Automação e formações de destaque em Redes e Cibersegurança (**Cisco Networking Academy**) e Ciência da Computação (**Harvard University**).
 * 🎯 **Objetivo:** Integrar equipes de engenharia de alta performance, desenvolvendo soluções robustas, seguras e orientadas a resultados de alto impacto.
@@ -26,7 +26,7 @@ Profissional de tecnologia com forte base lógica em Engenharia de Software, uni
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,oracle,azure,docker,mysql,git,github,linux,vscode,n8n" alt="Cloud & Tools">
+  <img src="https://skillicons.dev/icons?i=aws,azure,mysql,docker,git,github,linux,vscode,n8n" alt="Cloud & Tools">
 </p>
 
 <p align="center">
