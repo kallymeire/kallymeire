@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Banner" width="100%" />
+  <img src="gemini-svg.svg" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
